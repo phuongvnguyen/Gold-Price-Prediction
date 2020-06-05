@@ -151,7 +151,6 @@ class load():
         print('I am done!')
         return self.explor_tab
     
-    
     def export_data(self,data,nam_file):
         print('I am exporting data to the csv and excel files\n...')
         self.export_csv=data.to_csv(nam_file+'.csv')
