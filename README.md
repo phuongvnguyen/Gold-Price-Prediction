@@ -1,7 +1,7 @@
 
-```diff
-- # Gold-Price-Prediction in red
-```
+
+# Gold-Price-Prediction in red
+
 This program is an end-to-end project on developing a Machine Learning model for the Gold price. The specification requirements are pandas, yahoofinancials, and SQL.
 
 ## 1. Scarping data
