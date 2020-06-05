@@ -12,5 +12,4 @@ To this end, one should run the file "**2_ETL_Fin_Asset_Prices.py**". Indeed, it
 
 ## 3. Training Machine Learning Models
 
-Coming soon
------
+coming soon -----
